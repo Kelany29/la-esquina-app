@@ -1,0 +1,36 @@
+name: la_esquina_app
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.12.4
+  intl: ^0.20.2
+  sqflite: ^2.4.2+1
+  path: ^1.9.1
+  connectivity_plus: ^7.1.1
+  qr_flutter: ^4.1.0
+  flutter_dotenv: ^6.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.jpeg
+    - assets/esquina.jpg
+    - .env
+
