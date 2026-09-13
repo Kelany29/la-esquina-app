@@ -30,10 +30,14 @@ Para resolver estos problemas, diseñé e implementé los siguientes módulos co
 *   📊 **Dashboard Financiero & BI:** Arqueo e historial de caja. Métricas en vivo de ticket promedio, recaudación por medio de pago (tarjeta, efectivo, QR) y ranking estadístico de platos.
 
 ## 📱 Demostración Visual
-![alt text](<Captura de pantalla 2026-09-12 203948.png>)
-![alt text](<Captura de pantalla 2026-09-12 204648.png>)
-![alt text](<Captura de pantalla 2026-09-12 204714.png>)
-![alt text](<Captura de pantalla 2026-09-12 204739.png>)
+## 📱 Demostración Visual
+
+![Dashboard Financiero](assets/tablero.png)
+![Monitor de Cocina](assets/cocina.png)
+![Layout de Mesas](assets/mesas.png)
+![Operaciones de ventas](assets/tablero.png)
+![Funciones ](assets/dashboard.png)
+
 
 
 
@@ -41,4 +45,4 @@ Para resolver estos problemas, diseñé e implementé los siguientes módulos co
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/Kelany29/la-esquina-app.git](https://github.com/tu-usuario/la-esquina-app.git)
+   git clone [https://github.com/Kelany29/la-esquina-app.git](https://github.com/Kelany29/la-esquina-app.git)
