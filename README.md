@@ -30,13 +30,21 @@ Para resolver estos problemas, diseñé e implementé los siguientes módulos co
 *   📊 **Dashboard Financiero & BI:** Arqueo e historial de caja. Métricas en vivo de ticket promedio, recaudación por medio de pago (tarjeta, efectivo, QR) y ranking estadístico de platos.
 
 ## 📱 Demostración Visual
-## 📱 Demostración Visual
 
+### 📊 Dashboard Financiero y Reportes
 ![Dashboard Financiero](assets/tablero.png)
+
+### 👨‍🍳 Monitor de Cocina en Tiempo Real
 ![Monitor de Cocina](assets/cocina.png)
+
+### 🗺️ Layout Interactivo de Mesas
 ![Layout de Mesas](assets/mesas.png)
-![Operaciones de ventas](assets/tablero.png)
-![Funciones ](assets/dashboard.png)
+
+### 📦 Motor de Inventario y Gramaje
+![Control de Insumos](assets/insumos.png)
+
+### ⚙️ Panel de Operaciones y Funciones
+![Operaciones de Ventas](assets/dashboard.png)
 
 
 
